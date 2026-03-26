@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>食堂信息查询</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>食堂信息查询</h1>
+        <nav>
+            <button id="showStalls">摊位列表</button>
+            <button id="showDishes">菜品浏览</button>
+            <button id="showReviews">评价查看</button>
+        </nav>
+    </header>
+
+    <main id="content">
+        <div id="stalls-section" class="section">
+            <h2>食堂摊位</h2>
+            <div id="stalls-list" class="grid"></div>
+        </div>
+
+        <div id="dishes-section" class="section hidden">
+            <h2>菜品浏览</h2>
+            <div id="dishes-list" class="grid"></div>
+        </div>
+
+        <div id="reviews-section" class="section hidden">
+            <h2>用户评价</h2>
+            <div id="reviews-list" class="reviews-container"></div>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2024 食堂信息查询系统</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
