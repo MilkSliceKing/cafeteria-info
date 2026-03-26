@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "stallId": 1,
+    "name": "麻婆豆腐",
+    "price": 12,
+    "description": "经典川菜，麻辣鲜香，下饭佳品",
+    "imageUrl": "assets/images/putian.jpg"
+  },
+  {
+    "id": 2,
+    "stallId": 1,
+    "name": "宫保鸡丁",
+    "price": 15,
+    "description": "香辣可口，鸡肉嫩滑，配菜丰富",
+    "imageUrl": "assets/images/dish2.jpg"
+  },
+  {
+    "id": 3,
+    "stallId": 1,
+    "name": "回锅肉",
+    "price": 18,
+    "description": "肥而不腻，香气扑鼻，经典川菜",
+    "imageUrl": "assets/images/dish3.jpg"
+  },
+  {
+    "id": 4,
+    "stallId": 2,
+    "name": "虾饺",
+    "price": 8,
+    "description": "皮薄馅多，鲜虾饱满，口感Q弹",
+    "imageUrl": "assets/images/dish4.jpg"
+  },
+  {
+    "id": 5,
+    "stallId": 2,
+    "name": "烧卖",
+    "price": 6,
+    "description": "糯米馅料，香甜可口，经典点心",
+    "imageUrl": "assets/images/dish5.jpg"
+  },
+  {
+    "id": 6,
+    "stallId": 2,
+    "name": "叉烧包",
+    "price": 5,
+    "description": "松软香甜，叉烧肉馅，老少皆宜",
+    "imageUrl": "assets/images/dish6.jpg"
+  },
+  {
+    "id": 7,
+    "stallId": 3,
+    "name": "炸酱面",
+    "price": 10,
+    "description": "北方特色，酱香浓郁，面条劲道",
+    "imageUrl": "assets/images/dish7.jpg"
+  },
+  {
+    "id": 8,
+    "stallId": 3,
+    "name": "牛肉面",
+    "price": 12,
+    "description": "汤底浓郁，牛肉软烂，面条劲道",
+    "imageUrl": "assets/images/dish8.jpg"
+  },
+  {
+    "id": 9,
+    "stallId": 3,
+    "name": "刀削面",
+    "price": 11,
+    "description": "手工刀削，口感独特，配菜丰富",
+    "imageUrl": "assets/images/dish9.jpg"
+  },
+  {
+    "id": 10,
+    "stallId": 4,
+    "name": "盖浇饭",
+    "price": 15,
+    "description": "快速便捷，多种选择，营养均衡",
+    "imageUrl": "assets/images/dish10.jpg"
+  },
+  {
+    "id": 11,
+    "stallId": 4,
+    "name": "汉堡套餐",
+    "price": 20,
+    "description": "西式快餐，美味可口，适合快餐",
+    "imageUrl": "assets/images/dish11.jpg"
+  },
+  {
+    "id": 12,
+    "stallId": 4,
+    "name": "鸡肉卷",
+    "price": 8,
+    "description": "方便携带，鸡肉鲜嫩，酱料丰富",
+    "imageUrl": "assets/images/dish12.jpg"
+  }
+]

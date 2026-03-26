@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "川香小馆",
+    "location": "一楼东区",
+    "openingHours": "10:30-13:30, 17:00-20:00",
+    "description": "正宗川菜，麻辣鲜香，价格实惠",
+    "imageUrl": "assets/images/stall1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "粤式早茶",
+    "location": "二楼南区",
+    "openingHours": "07:00-14:00",
+    "description": "传统粤式点心，地道风味，种类丰富",
+    "imageUrl": "assets/images/stall2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "北方面馆",
+    "location": "一楼西区",
+    "openingHours": "09:00-21:00",
+    "description": "北方特色面食，分量足，味道正宗",
+    "imageUrl": "assets/images/stall3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "快餐窗口",
+    "location": "二楼北区",
+    "openingHours": "07:00-20:00",
+    "description": "快速便捷，适合赶时间的同学",
+    "imageUrl": "assets/images/stall4.jpg"
+  }
+]
