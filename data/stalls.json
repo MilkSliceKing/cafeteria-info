@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "花甲粉",
+    "location": "实惠一楼",
+    "openingHours": "全天",
+    "description": "推荐蒜香锡纸花甲粉 唯一缺点吃完满嘴都是味",
+    "imageUrl": "assets/images/huajiafen.jpg"
+  },
+  {
+    "id": 2,
+    "name": "匠心卤",
+    "location": "京元一楼",
+    "openingHours": "全天",
+    "description": "巨香",
+    "imageUrl": "assets/images/jiangxinlu.jpg"
+  },
+  {
+    "id": 3,
+    "name": "成都冒烤鸭",
+    "location": "中善二楼",
+    "openingHours": "全天",
+    "description": "香辣真的很辣 但是藤椒味道的还不错 烤鸭很少但是味道还行 配饭一绝",
+    "imageUrl": "assets/images/kaoya.jpg"
+  },
+  {
+    "id": 4,
+    "name": "莆田卤面",
+    "location": "中善二楼",
+    "openingHours": "全天 出餐很快",
+    "description": "推荐青椒肉丝盖饭 性价比王中王 出餐速度比沈腾越线速度还快",
+    "imageUrl": "assets/images/putian.jpg"
+  },
+  {
+    "id": 5,
+    "name": "老上海混沌",
+    "location": "中善二楼",
+    "openingHours": "全天 出餐要抢",
+    "description": "推荐混沌 神",
+    "imageUrl": "assets/images/shanghaihundun.jpg"
+  },
+  {
+    "id": 6,
+    "name": "陕西面馆",
+    "location": "中善二楼",
+    "openingHours": "有时候会不开门 出餐巨慢",
+    "description": "砂锅土豆粉系列都不错",
+    "imageUrl": "assets/images/shanxi.jpg"
+  },
+  {
+    "id": 7,
+    "name": "杂粮煎饼",
+    "location": "实惠一楼",
+    "openingHours": "全天",
+    "description": "要加肉松啊 吃完小概率会肚子不舒服半个中午 但是很好吃 推荐加辣",
+    "imageUrl": "assets/images/zaliangjianbing.jpg"
+  } 
+]
